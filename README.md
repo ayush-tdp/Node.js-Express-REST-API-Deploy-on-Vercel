@@ -123,10 +123,10 @@ curl -X GET "https://your-vercel-api.vercel.app/users"
 ---
 
 ## **👨‍💻 Author**
-Made with ❤️ by **[Your Name](https://github.com/your-username)**  
+Made with ❤️ by **[Your Name](https://github.com/ayush-tdp)**  
 
-📌 **GitHub:** [https://github.com/your-username](https://github.com/your-username)  
-📌 **Website:** [https://yourwebsite.com](https://yourwebsite.com)  
+📌 **GitHub:** [https://github.com/ayush-tdp](https://github.com/ayush-tdp)  
+📌 **Website:** [https://ayushtdp.com](https://ayushtdp.com)  
 
 ⭐ **If you found this helpful, give it a star!** 🌟🚀  
 
